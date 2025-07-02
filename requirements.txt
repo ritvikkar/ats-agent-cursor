@@ -1,0 +1,21 @@
+# --- Core dependencies ---
+requests                # HTTP requests for web and API calls
+beautifulsoup4          # HTML parsing for static career pages
+lxml                    # Fast HTML/XML parser backend for BeautifulSoup
+playwright              # Headless browser for JS-heavy career/apply pages
+python-dotenv           # Load API keys from a .env file
+
+# --- Developer UX ---
+tqdm                    # Progress bars in loops and scraping
+
+# --- Optional enhancements ---
+pydantic                # Structured schema validation for JSON output
+tenacity                # Retry logic for network or scraping failures
+loguru                  # Rich logging alternative to print/logging
+openai                  # To hit open-AI APIs
+serpapi                 # Official Python client for SerpAPI (Google/Bing search API)
+
+# --- Testing & Linting ---
+pytest
+ruff
+uv 
