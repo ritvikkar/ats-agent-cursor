@@ -108,4 +108,6 @@ An **AI agent** that identifies which **Applicant Tracking System (ATS)** a comp
 ## 📝 Notes
 - **Never commit your `.env` file or secrets.**
 - See `PRD.md` for full requirements and logic.
-- For questions or contributions, open an issue or PR on [GitHub](https://github.com/ritvikkar/ats-agent-cursor). 
+- For questions or contributions, open an issue or PR on [GitHub](https://github.com/ritvikkar/ats-agent-cursor).
+
+> **Note:** Some companies may use multiple ATS platforms or job boards for different divisions, regions, or job types. This pipeline is optimized to find at least one high-confidence ATS and job board per company, not to exhaustively enumerate all possible ATSs. If multiple ATSs are present, the agent will select the most promising path based on heuristics and content checks. 
