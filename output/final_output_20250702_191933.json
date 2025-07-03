@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Coca-Cola",
+    "is_staffing": "No",
+    "career_page": "https://www.coca-colacompany.com/careers",
+    "job_links": [
+      "https://careers.coca-colacompany.com/job/22140857/intern-manaus-br/",
+      "https://careers.coca-colacompany.com/job/22153283/intern-ai-data-engineering-singapore-sg/",
+      "https://careers.coca-colacompany.com/job/22153465/director-digital-platforms-experiences-singapore-sg/"
+    ]
+  },
+  {
+    "company": "The Parthenon Group LLC (EY\u2011Parthenon)",
+    "is_staffing": "No",
+    "career_page": "https://www.ey.com/en_us/services/strategy/parthenon",
+    "job_links": [
+      "https://eyglobal.yello.co/jobs/gECt1QvL9hfGe9bWXURomg?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+      "https://eyglobal.yello.co/jobs/zHdakQom5PCIefS2xzHWDQ?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+      "https://eyglobal.yello.co/jobs/lSBjjSKTZAGn2LLXbgKu_g?job_board_id=c1riT--B2O-KySgYWsZO1Q"
+    ]
+  },
+  {
+    "company": "New\u202fYork State Office of General Services",
+    "is_staffing": "No",
+    "career_page": "https://www.linkedin.com/company/nysgeneralservices/jobs",
+    "job_links": []
+  },
+  {
+    "company": "RGF International Recruitment",
+    "is_staffing": "Yes",
+    "career_page": "https://www.rgf-hr.com/",
+    "job_links": []
+  },
+  {
+    "company": "Caisse F\u00e9d\u00e9rale de Cr\u00e9dit Mutuel",
+    "is_staffing": "No",
+    "career_page": "https://www.creditmutuel.com/en/working-for-a-different-kind-of-employer-that-changes-everything-technology.html",
+    "job_links": []
+  },
+  {
+    "company": "Chaberton Partners SA",
+    "is_staffing": "Unsure",
+    "career_page": "https://chabertonpartners.com/en/management-search",
+    "job_links": []
+  }
+]
